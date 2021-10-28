@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Child Support",
+        "img": "https://i.ibb.co/4K5N8df/child-Support.png",
+        "bgColour": "#ffbd3e"
+    },
+    {
+        "name": "Refuge shelter",
+        "img": "https://i.ibb.co/bvwLgZ9/help-people.jpg",
+        "bgColour": "#ff7044"
+    },
+    {
+        "name": "Food Charity",
+        "img": "https://i.ibb.co/BfNshTX/food-Charity.png",
+        "bgColour": "#3f90fc"
+    },
+    {
+        "name": "Host a clothin gswap.",
+        "img": "https://i.ibb.co/tMbGpZ7/cloth-Swap.png",
+        "bgColour": "#421fcf"
+    },
+    {
+        "name": "Host a river clean-up.",
+        "img": "https://i.ibb.co/2tmB9cv/river-Clean.png",
+        "bgColour": "#3f90fc"
+    },
+    {
+        "name": "Clean water for children",
+        "img": "https://i.ibb.co/hYwRttZ/clean-Water.png",
+        "bgColour": "#421fcf"
+    },
+    {
+        "name": "Good education",
+        "img": "https://i.ibb.co/DpwxcKk/good-Education.png",
+        "bgColour": "#ffbd3e"
+    },
+    {
+        "name": "New books for children",
+        "img": "https://i.ibb.co/cvLRGJX/newBooks.png",
+        "bgColour": "#ff7044"
+    },
+    {
+        "name": "Host a study group.",
+        "img": "https://i.ibb.co/gRcrrcd/study-Group.png",
+        "bgColour": "#ffbd3e"
+    },
+    {
+        "name": "Build birdhouses for your neighbors.",
+        "img": "https://i.ibb.co/pPS2bb9/bird-House.png",
+        "bgColour": "#3f90fc"
+    },
+    {
+        "name": "Organize books at the library.",
+        "img": "https://i.ibb.co/S0mLM9N/library-Books.png",
+        "bgColour": "#ff7044"
+    },
+    {
+        "name": "Give a seminar on driving safety.",
+        "img": "https://i.ibb.co/mGNzXz0/drive-Safety.png",
+        "bgColour": "#421fcf"
+    },
+    {
+        "name": "Give free music lessons",
+        "img": "https://i.ibb.co/L1JNm4y/music-Lessons.png",
+        "bgColour": "#421fcf"
+    },
+    {
+        "name": "Teach people how to register to vote.",
+        "img": "https://i.ibb.co/L06qXb0/vote-Register.png",
+        "bgColour": "#ffbd3e"
+    },
+    {
+        "name": "Clean up your local park.",
+        "img": "https://i.ibb.co/pJpVWr5/clearn-Park.png",
+        "bgColour": "#3f90fc"
+    },
+    {
+        "name": "Give IT help to local adults",
+        "img": "https://i.ibb.co/ZfP5nw2/ITHelp.png",
+        "bgColour": "#ff7044"
+    }
+]
